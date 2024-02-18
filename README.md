@@ -1,2 +1,4 @@
-# ender-config
-Configuration files for an Ender 3 V2 3D Printer
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
+
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
